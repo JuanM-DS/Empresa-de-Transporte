@@ -1,0 +1,17 @@
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Servicios\bin\Debug\net8.0\Services.deps.json
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Servicios\bin\Debug\net8.0\Services.dll
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Servicios\bin\Debug\net8.0\Services.pdb
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Servicios\bin\Debug\net8.0\Models.dll
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Servicios\bin\Debug\net8.0\Repositoy.dll
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Servicios\bin\Debug\net8.0\Models.pdb
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Servicios\bin\Debug\net8.0\Repositoy.pdb
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Servicios\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Servicios\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Servicios\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Servicios\obj\Debug\net8.0\Services.AssemblyInfo.cs
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Servicios\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Servicios\obj\Debug\net8.0\Services.csproj.CopyComplete
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Servicios\obj\Debug\net8.0\Services.dll
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Servicios\obj\Debug\net8.0\refint\Services.dll
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Servicios\obj\Debug\net8.0\Services.pdb
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Servicios\obj\Debug\net8.0\ref\Services.dll

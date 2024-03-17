@@ -1,0 +1,11 @@
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Servicios\bin\Debug\net8.0\Servicios.deps.json
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Servicios\bin\Debug\net8.0\Servicios.dll
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Servicios\bin\Debug\net8.0\Servicios.pdb
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Servicios\obj\Debug\net8.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfo.cs
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Servicios\obj\Debug\net8.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Servicios\obj\Debug\net8.0\Servicios.dll
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Servicios\obj\Debug\net8.0\refint\Servicios.dll
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Servicios\obj\Debug\net8.0\Servicios.pdb
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Servicios\obj\Debug\net8.0\ref\Servicios.dll

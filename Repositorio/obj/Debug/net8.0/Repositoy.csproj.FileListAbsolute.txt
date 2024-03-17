@@ -1,0 +1,15 @@
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Repositorio\bin\Debug\net8.0\Repositoy.deps.json
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Repositorio\bin\Debug\net8.0\Repositoy.dll
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Repositorio\bin\Debug\net8.0\Repositoy.pdb
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Repositorio\bin\Debug\net8.0\Models.dll
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Repositorio\bin\Debug\net8.0\Models.pdb
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Repositorio\obj\Debug\net8.0\Repositoy.csproj.AssemblyReference.cache
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Repositorio\obj\Debug\net8.0\Repositoy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Repositorio\obj\Debug\net8.0\Repositoy.AssemblyInfoInputs.cache
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Repositorio\obj\Debug\net8.0\Repositoy.AssemblyInfo.cs
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Repositorio\obj\Debug\net8.0\Repositoy.csproj.CoreCompileInputs.cache
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Repositorio\obj\Debug\net8.0\Repositoy.csproj.CopyComplete
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Repositorio\obj\Debug\net8.0\Repositoy.dll
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Repositorio\obj\Debug\net8.0\refint\Repositoy.dll
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Repositorio\obj\Debug\net8.0\Repositoy.pdb
+C:\Users\Juan Manuel\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\Programacion\Programacion 2\EmpresaDeTransporte\Repositorio\obj\Debug\net8.0\ref\Repositoy.dll
